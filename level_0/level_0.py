@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Import the requests library"""
+"""Import the requests library."""
 import requests
 
 
